@@ -18,7 +18,7 @@ try {
 
 } catch (error) {
    console.error("出错", error);  
-  alert("加载失败，请稍后再试。"); // 友好的错误提示  
+  alert("加载失败，请稍后再试。"); // 友好的错误提666示  
   
 }
 
