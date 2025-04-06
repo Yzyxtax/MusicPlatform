@@ -1,11 +1,12 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
 import index from './components/index.vue';
+import Login from './page/login.vue';
 </script>
 
 <template>
   <div>
-    <index></index>
+    <login></login>
   </div>
 </template>
 

@@ -186,7 +186,7 @@ onMounted(() => {
    //   enroll();
    // Modify();
    //deleteUser();
-   deleteUser2();
+   
 });
 </script>
 
